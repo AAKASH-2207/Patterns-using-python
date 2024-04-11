@@ -1,6 +1,6 @@
 ''' 
 Code Description
-This code is to create a left sided Right angled Triangle using python language
+This code is to create a left sided Right angled Triangle using Python language
 
 Creator: Aakash Sharma
 '''
