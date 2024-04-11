@@ -10,3 +10,15 @@ for rows in range(0, no_of_rows + 1):
   for columns in range(0, i + 1):
     print("* ",end="")
   print("")
+
+'''
+expected Output:
+enter the size of the Triangle: 5
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * * * 
+
+'''
