@@ -1,5 +1,9 @@
-'''
 
+''' 
+Code Description
+This code is to create a Inverse Triangle using Python language
+
+Creator: Aakash Sharma
 '''
 
 #CODE 1
