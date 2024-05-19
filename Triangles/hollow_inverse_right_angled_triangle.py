@@ -1,6 +1,6 @@
 ''' 
 Code Description
-This code is to create a Empty Right sided Right angled Triangle using Python language
+This code is to create a Hollow Left sided Right angled Triangle using Python language
 
 Creator: Aakash Sharma
 '''
