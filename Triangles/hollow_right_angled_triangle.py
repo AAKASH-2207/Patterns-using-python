@@ -16,7 +16,6 @@ for i in range(size+1):
 '''
 EXPECTED OUTPUT
 enter the size of the triangle: 6
-
 * 
 * * 
 *   * 
