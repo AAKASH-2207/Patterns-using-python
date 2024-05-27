@@ -33,3 +33,4 @@ enter the size of triangle: 5
 * * * 
 * * * * 
 * * * * * 
+'''
