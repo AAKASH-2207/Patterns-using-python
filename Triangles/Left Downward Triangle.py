@@ -23,3 +23,15 @@ enter the size of Triangle: 5
 '''
 
 #CODE2 2
+size = int(input("enter the size of triangle: "))
+for i in range(size):
+  print("* " * (size-i))
+'''
+EXPECTED OUTPUT
+enter the size of triangle: 5
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+'''
